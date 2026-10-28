@@ -1,0 +1,38 @@
+===== DEV SYSTEM REPORT =====
+Date: Wed Oct 28 11:42:47 UTC 2026
+User: arpit_maru
+
+===== DISK USAGE =====
+Filesystem      Size  Used Avail Use% Mounted on
+none            7.7G     0  7.7G   0% /usr/lib/modules/6.6.114.1-microsoft-standard-WSL2
+none            7.7G  4.0K  7.7G   1% /mnt/wsl
+drivers         280G  127G  154G  46% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.1G  950G   1% /
+none            7.7G   32K  7.7G   1% /mnt/wslg
+none            7.7G     0  7.7G   0% /usr/lib/wsl/lib
+rootfs          7.7G  2.8M  7.7G   1% /init
+none            7.7G  848K  7.7G   1% /run
+none            7.7G     0  7.7G   0% /run/lock
+none            7.7G     0  7.7G   0% /run/shm
+none            7.7G   80K  7.7G   1% /mnt/wslg/versions.txt
+none            7.7G   80K  7.7G   1% /mnt/wslg/doc
+C:\             280G  127G  154G  46% /mnt/c
+D:\             196G  157M  196G   1% /mnt/d
+tmpfs           7.7G     0  7.7G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+snapfuse         22M   22M     0 100% /snap/helm/545
+snapfuse         67M   67M     0 100% /snap/core24/1643
+snapfuse         67M   67M     0 100% /snap/core24/2124
+snapfuse         51M   51M     0 100% /snap/snapd/27591
+snapfuse         22M   22M     0 100% /snap/helm/555
+snapfuse         45M   45M     0 100% /snap/snapd/28254
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.6G   12K  1.6G   1% /run/user/1000
+
+===== MEMORY USAGE =====
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       618Mi        14Gi       3.8Mi       273Mi        14Gi
+Swap:          4.0Gi          0B       4.0Gi
+
+===== REPORT COMPLETE =====
